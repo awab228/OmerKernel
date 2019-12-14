@@ -1,2 +1,6 @@
- include/generated/
- include/config/kernel.release
+include/generated/
+include/config/auto.conf 
+include/config/kernel.release
+.config.old 
+.version
+Module.symvers

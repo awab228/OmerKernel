@@ -3556,8 +3556,8 @@ CONFIG_SEC_CP830_ID=y
 
 #
 # Samsung TN Logging Options
-#
-CONFIG_SEC_AVC_LOG=y
+# awab228
+# CONFIG_SEC_AVC_LOG is not set
 CONFIG_SEC_DEBUG_TSP_LOG=y
 # CONFIG_SEC_DEBUG_PMIC is not set
 
